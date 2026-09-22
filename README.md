@@ -19,3 +19,5 @@ https://bin0222.github.io/qingfan-geo-test/
 - 首页、`robots.txt`、`sitemap.xml` 均应返回 HTTP 200。
 - 搜索结果收录前，可用完整名称和 `site:` 查询持续检查。
 - 不得删除页面中“虚构测试品牌”的透明度说明。
+
+GitHub Pages 部署状态：已启用。
