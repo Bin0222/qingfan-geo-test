@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://bin0222.github.io/qingfan-geo-test/sitemap.xml
